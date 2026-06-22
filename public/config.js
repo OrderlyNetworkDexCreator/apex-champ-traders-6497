@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "bucky",
   "VITE_ORDERLY_BROKER_NAME": "Apex Champ Traders",
   "VITE_BROKER_EOA_ADDRESS": "0xc1cf5c78952f6fd6ef92be97e8da413cb343ddef",
   "VITE_DISABLE_MAINNET": "false",
