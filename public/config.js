@@ -33,7 +33,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_SITE_LOCALE": "en_UK",
   "VITE_SEO_TWITTER_HANDLE": "",
   "VITE_SEO_THEME_COLOR": "#4a0193",
-  "VITE_SEO_KEYWORDS": "dex, crypto, trading, ACT, Apex",
+  "VITE_SEO_KEYWORDS": "dex, crypto, trading, ACT, Apex Champ Traders",
   "VITE_AVAILABLE_LANGUAGES": "en",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
