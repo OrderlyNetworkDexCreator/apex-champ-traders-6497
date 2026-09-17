@@ -20,7 +20,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Vaults,Points,Leaderboard,Swap",
-  "VITE_CUSTOM_MENUS": "Swaps, https://www.sushi.com/base/swap?token0=0x146cedc4cc1163693e3fe71b9e186383dc45ecf3&token1=0x833589fcd6edb6e08f4c7c32d4f71b54bda02913&swapAmount=500020.004246424602138419",
+  "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
   "VITE_TELEGRAM_URL": "",
