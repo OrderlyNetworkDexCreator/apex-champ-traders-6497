@@ -19,7 +19,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_APP_DESCRIPTION": "Aspire for the pinnacle Join the Apex of financial success!",
   "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
-  "VITE_ENABLED_MENUS": "Trading,Markets,Portfolio,Vaults,Points,Leaderboard,Swap",
+  "VITE_ENABLED_MENUS": "Trading,Markets,Swap,Portfolio,Vaults,Points,Leaderboard",
   "VITE_CUSTOM_MENUS": "",
   "VITE_ENABLE_SERVICE_DISCLAIMER_DIALOG": "false",
   "VITE_ENABLE_CAMPAIGNS": "false",
